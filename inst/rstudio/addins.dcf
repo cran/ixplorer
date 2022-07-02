@@ -1,0 +1,14 @@
+Name: Autentificación
+Description: Agregue credenciales para su autentificación a ixplorer
+Binding: add_token
+Interactive: true
+
+Name: Crear tiquete
+Description: Crear tiquete en ixplorer
+Binding: create_tickets
+Interactive: true
+
+Name: Tiquetes actuales
+Description: Obtenga un vistazo de los tiquetes actuales en el repositorio
+Binding: current_tickets
+Interactive: true
